@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\TimGiaTriLonNhatTrongMang\BaiTap_GU1-W04_B3\bin\Debug\BaiTap_GU1-W04_B3.exe.config
+C:\Users\ADMIN\source\repos\TimGiaTriLonNhatTrongMang\BaiTap_GU1-W04_B3\bin\Debug\BaiTap_GU1-W04_B3.exe
+C:\Users\ADMIN\source\repos\TimGiaTriLonNhatTrongMang\BaiTap_GU1-W04_B3\bin\Debug\BaiTap_GU1-W04_B3.pdb
+C:\Users\ADMIN\source\repos\TimGiaTriLonNhatTrongMang\BaiTap_GU1-W04_B3\obj\Debug\BaiTap_GU1-W04_B3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\TimGiaTriLonNhatTrongMang\BaiTap_GU1-W04_B3\obj\Debug\BaiTap_GU1-W04_B3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\TimGiaTriLonNhatTrongMang\BaiTap_GU1-W04_B3\obj\Debug\BaiTap_GU1-W04_B3.exe
+C:\Users\ADMIN\source\repos\TimGiaTriLonNhatTrongMang\BaiTap_GU1-W04_B3\obj\Debug\BaiTap_GU1-W04_B3.pdb
